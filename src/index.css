@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "helvetica";
+    src: url("../fonts/helvetica.ttf") format("truetype"), local("sans-serif");
+}
+
+:root {
+    --primary: #db4a2b;
+    --secondary: #ffede8;
+}
+
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "helvetica", "sans-serif";
+}

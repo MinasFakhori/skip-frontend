@@ -1,0 +1,30 @@
+{
+  "name": "Skip.",
+  "short_name": "Skip.",
+  "start_url": "../",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "description": "This app promotes re-use sustainability by allowing users to share, map and find materials and household goods found in skips or offered for free collection in the street.",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "/imgs/logo/icons/skip-192.svg"
+    },
+    {
+      "src": "icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "/imgs/logo/icons/skip-256.svg"
+    },
+    {
+      "src": "icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "/imgs/logo/icons/skip-384.svg"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "/imgs/logo/icons/skip-512.svg"
+    }
+  ]
+}
