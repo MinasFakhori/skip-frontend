@@ -56,8 +56,3 @@ For the back-end, the app uses:
 2. Run `npm run dev` to start the development server
 3. To build the app, run `npm run build`
 4. To preview the built app, run `npm run serve`
-
----
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
-  uses [Babel](https://babeljs.io/) for Fast Refresh
